@@ -17,3 +17,5 @@ It's **necessary** that the working directory has set in the **main directory wh
   - README.txt
   - run_analysis.R
 
+There is also a code_book.pdf file, where the variables used by the data frame are described
+
